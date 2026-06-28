@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center"> Junior Dual Degree (B.Tech and MS by Research) in ECE at IIIT Hyderabad and Undergraduate Robotics Researcher at Robotics Research Center, IIIT Hyderabad; but above all, i'm just very passionate about life and finding elegance in everything i do. i love anything that involves creating and building.<br><br>to me, engineering is an art form. i care deeply about elegance, not just pure functionality. when i'm not working, you'll probably find me making music or graphic designing.</p>
+<p align="center"> junior Dual Degree (B.Tech and MS by Research) in ECE at IIIT Hyderabad and Undergraduate Robotics Researcher at Robotics Research Center, IIIT Hyderabad; but above all, i'm just very passionate about life and finding elegance in everything i do. i love anything that involves creating and building.<br><br>to me, engineering is an art form. i care deeply about elegance, not just pure functionality. when i'm not working, you'll probably find me making music or graphic designing.</p>
 
 ###
 
